@@ -15,6 +15,8 @@ Edit bondandrestake.js to input your public address and private key. NEVER share
 ## Todo:
 Work with block times to be more precise.
 
+Improve console output to make it prettier.
+
 Get bonding rates to unstake, swap and rebond when they are favorable.
 
 ## Note:
