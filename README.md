@@ -18,7 +18,7 @@ Work with block times to be more precise.
 Get bonding rates to unstake, swap and rebond when they are favorable.
 
 ## Note:
-I'm not a programmer! There are almost certainly cleaner and more elegant solutions! 
+I'm not a programmer! There are almost certainly cleaner and more elegant solutions! I've tried to comment the code to display the steps and thinking.
 
 Feel free to revise and improve!
 
