@@ -10,7 +10,11 @@ Clone the repository or download the files to a directory.
 
 Install Web3 by running ```npm install web3```.
 
-Edit bondandrestake.js to input your public address and private key. NEVER share the modified file, upload it anywhere, or let anyone see it in screensharing etc. YOU are responsible for this file!
+Edit klimabonder.js to input your public address and private key. 
+
+NEVER share the modified file, upload it anywhere, or let anyone see it in screensharing etc. YOU are responsible for this file! 
+
+Make sure your system is secure and up to date! Your private keys are only as secure as your system!!
 
 ## Todo:
 Work with block times to be more precise.
